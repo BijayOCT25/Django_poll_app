@@ -1,0 +1,7 @@
+li a {
+    color: green;
+}
+body {
+    background: lightblue url("images/pic.jpg") repeat; 
+    /*background: radial-gradient(circle, black, white); lightblue url("img_tree.gif") no-repeat fixed center;*/
+}
